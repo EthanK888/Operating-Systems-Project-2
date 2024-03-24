@@ -1,1 +1,2 @@
 Original time: ~1.86 seconds
+After adding consumers: 0.26 seconds
