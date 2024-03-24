@@ -48,7 +48,7 @@ void* producer(void* arg){
 	// create sorted list of PPM files
 	while ((dir = readdir(d)) != NULL) {
 		pthread_mutex_lock(&lock);
-		while(count == MAX_FILES) pthread_cond_wait(&empty, &lock);
+		//while(count == MAX_FILES) pthread_cond_wait(&empty, &lock);
 		files = realloc(files, (fill+1)*sizeof(char *));
 
 		int len = strlen(dir->d_name);
