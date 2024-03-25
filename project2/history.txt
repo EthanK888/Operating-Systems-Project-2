@@ -1,0 +1,42 @@
+commit 1df111566596effea76bcf99b343d67fc20ac1e1
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Sun Mar 24 21:03:39 2024 -0400
+
+    Successfully added writer - slightly faster
+
+commit 0e3626b599ac10276b6904767c4881efa57ae252
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Sun Mar 24 15:40:48 2024 -0400
+
+    Best solution so far
+
+commit ef0acf3b8c53b17e053753f9b5c3838393479f5c
+Merge: d803ff8 807fb76
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Sun Mar 24 08:56:35 2024 -0400
+
+    Merge pull request #1 from EthanK888/Attempt-1
+    
+    Adding Consumers
+
+commit 807fb761d4ce10f9a197fa0a3ec74dd63cf6944a
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Sun Mar 24 02:28:45 2024 -0400
+
+    Adding Consumers
+    
+    Reduced time to 0.26 seconds.
+
+commit d803ff82bd933091647cc5eece67ad803a0a3aa6
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Wed Mar 20 01:04:44 2024 -0400
+
+    Starting the project
+    
+    Extracted the project2.zip folder, tested the initial program, saved the test time to a txt file, and did the extra credit (called vzip_visualizer.py).
+
+commit a39f3821d425d0e3ff31a9ea62137bd7b609e063
+Author: Ethan Kocses <89274912+EthanK888@users.noreply.github.com>
+Date:   Tue Mar 19 21:55:28 2024 -0400
+
+    Initial commit

@@ -6,14 +6,13 @@
 #include <zlib.h>
 #include <time.h>
 #include <pthread.h>
-#include <aio.h>
 
 #define BUFFER_SIZE 1048576 // 1MB
 #define NUM_COMPRESSORS 8
 
 //Global variable declarations
 char **files = NULL;
-int nfiles = 0, fill = 0, use = 0, count = 0, total_in = 0, total_out = 0, curFrame = 0;
+int nfiles = 0, use = 0, total_in = 0, total_out = 0, curFrame = 0;
 FILE* f_out = NULL;
 
 //Lock and condition variables
